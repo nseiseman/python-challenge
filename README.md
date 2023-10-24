@@ -8,3 +8,5 @@
 
 # I struggled with the last step trying to show just the winner for PyPoll
 # I also was getting a bunch of errors when I tried pushing my results to GitLab
+# Nevermind the push worked
+    https://zapier.com/blog/how-to-push-to-github/
